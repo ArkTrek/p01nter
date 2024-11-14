@@ -15,7 +15,7 @@ A simple yet powerful drawing application built with Python's `tkinter` library,
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/paint-app.git
+    git clone https://github.com/arktrek/p01inter.git
     cd paint-app
     ```
 
@@ -24,9 +24,9 @@ A simple yet powerful drawing application built with Python's `tkinter` library,
     pip install pillow
     ```
 
-3. Run the `paint_app.py` script:
+3. Run the `p01inter.py` script:
     ```bash
-    python paint_app.py
+    python p01inter.py
     ```
 
 ## Usage 🖌️

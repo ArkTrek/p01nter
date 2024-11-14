@@ -67,4 +67,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Note**: This is not a final thing. This was made only for fun. use it for getting random creative ideas and just use it as needed!
+**Disclaimer: This is a work in progress and created for fun! Feel free to use it as a source of random inspiration and adapt it to your needs as you see fit.**
